@@ -1,1 +1,1 @@
-module.exports = findAbsolute = (a, b) => Math.abs(a - b);
+module.exports = findAbsolute = (a, b) => a - b;
